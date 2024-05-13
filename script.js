@@ -7,7 +7,9 @@ const links = [
    './playables/blocktava/Ref_2_30_seconds.html',
    './playables/blocktava/Ref_2_7_clicks_50.html',
    './playables/blocktava/Ref_2_30_seconds_50.html',
-   './playables/blocktava/Ref_2_30_bright_candy.html',
+   './playables/blocktava/Ref_2_30_Bright_Green.html',
+   './playables/blocktava/Ref_2_30_Bright_to_Light_Orange.html',
+
 ];
 const root = document.getElementById('root');
 
