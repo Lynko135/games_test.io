@@ -1,25 +1,29 @@
-"use strict"
+"use strict";
 
 const links = [
-   './playables/blocktava/Ref_1_horizontal.html',
-   './playables/blocktava/Ref_1_vertical.html',
-   './playables/blocktava/Ref_2_7_clicks.html',
-   './playables/blocktava/Ref_2_30_seconds.html',
-   './playables/blocktava/Ref_2_7_clicks_50.html',
-   './playables/blocktava/Ref_2_30_seconds_50.html',
-   './playables/blocktava/Ref_2_30_Bright_Green.html',
-   './playables/blocktava/Ref_2_30_Bright_to_Light_Orange.html',
-
+  "./playables/freeplay/ride_master_climbdown.html",
+  "./playables/freeplay/snake_out_drag_ropes.html",
+  "./playables/freeplay/zombie_apocalypse.html",
+  "./playables/freeplay/paper_boy.html",
+  "./playables/freeplay/idle_cutter_fruit.html",
+  "./playables/freeplay/count_master_boss.html",
+  "./playables/freeplay/twerk_race_wednesday.html",
+  "./playables/freeplay/merge_defence.html",
+  "./playables/freeplay/snake_out_tangled_snakes.html",
+  "./playables/blocktava/Ref_1_vertical.html",
+  "./playables/blingo/100_box.html",
+  "./playables/blingo/choose_car.html",
+  "./playables/hotel_mania/HM_1.html",
 ];
-const root = document.getElementById('root');
+const root = document.getElementById("root");
 
 const createLinks = (arr, root) => {
-    arr.forEach(link => {
-        const div = document.createElement('a');
-        div.textContent = link.slice(2);
-        div.setAttribute('href', link)
-        root.append(div);
-    });
-}
+  arr.forEach((link) => {
+    const div = document.createElement("a");
+    div.textContent = link.slice(2);
+    div.setAttribute("href", link);
+    root.append(div);
+  });
+};
 
 createLinks(links, root);
