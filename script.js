@@ -1,14 +1,14 @@
 "use strict";
 
 const links = [
-  "./playables/freeplay/ride_master_climbdown.html",
+  "./playables/freeplay/ride_master.html",
   "./playables/freeplay/snake_out_drag_ropes.html",
   "./playables/freeplay/zombie_apocalypse.html",
   "./playables/freeplay/paper_boy.html",
   "./playables/freeplay/idle_cutter_fruit.html",
   "./playables/freeplay/count_master_boss.html",
   "./playables/freeplay/twerk_race_wednesday.html",
-  "./playables/freeplay/merge_defence.html",
+  "./playables/freeplay/merge_def.html",
   "./playables/freeplay/snake_out_tangled_snakes.html",
   "./playables/blocktava/Ref_1_vertical.html",
   "./playables/blingo/100_box.html",
