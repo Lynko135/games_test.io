@@ -14,6 +14,8 @@ const links = [
   "./playables/blingo/100_box.html",
   "./playables/blingo/choose_car.html",
   "./playables/hotel_mania/HM_1.html",
+  "./playables/woodoku/duck.html",
+  "./playables/woodoku/tetris.html",
 ];
 const root = document.getElementById("root");
 
