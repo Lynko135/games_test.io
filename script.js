@@ -1,6 +1,11 @@
 "use strict";
 
 const links = [
+  "./playables/blingo/100_box.html",
+  "./playables/blingo/choose_car.html",
+  "./playables/hotel_mania/HM_1.html",
+  "./playables/woodoku/duck.html",
+  "./playables/woodoku/tetris.html",
   "./playables/freeplay/ride_master.html",
   "./playables/freeplay/snake_out_drag_ropes.html",
   "./playables/freeplay/zombie_apocalypse.html",
@@ -11,11 +16,7 @@ const links = [
   "./playables/freeplay/merge_def.html",
   "./playables/freeplay/snake_out_tangled_snakes.html",
   "./playables/blocktava/Ref_1_vertical.html",
-  "./playables/blingo/100_box.html",
-  "./playables/blingo/choose_car.html",
-  "./playables/hotel_mania/HM_1.html",
-  "./playables/woodoku/duck.html",
-  "./playables/woodoku/tetris.html",
+  "./pet/pixi_pipes_puzzle.html"
 ];
 const root = document.getElementById("root");
 
