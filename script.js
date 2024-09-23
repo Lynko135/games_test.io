@@ -1,6 +1,9 @@
 "use strict";
 
 const links = [
+  "./playables/freeplay/zombie_ppsh.html",
+  "./playables/freeplay/zombie_pistol.html",
+  "./playables/freeplay/crazy_office_choose.html",
   "./playables/blingo/100_box.html",
   "./playables/blingo/choose_car.html",
   "./playables/hotel_mania/HM_1.html",
@@ -9,11 +12,9 @@ const links = [
   "./playables/woodoku/tetris_gem.html",
   "./playables/freeplay/ride_master.html",
   "./playables/freeplay/snake_out_drag_ropes.html",
-  "./playables/freeplay/zombie_apocalypse.html",
   "./playables/freeplay/paper_boy.html",
   "./playables/freeplay/idle_cutter_fruit.html",
   "./playables/freeplay/count_master_boss.html",
-  "./playables/freeplay/twerk_race_wednesday.html",
   "./playables/freeplay/merge_def.html",
   "./playables/freeplay/snake_out_tangled_snakes.html",
   "./playables/blocktava/Ref_1_vertical.html",
