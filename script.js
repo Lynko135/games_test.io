@@ -4,6 +4,7 @@ const links = [
   "./playables/freeplay/zombie_ppsh.html",
   "./playables/freeplay/zombie_pistol.html",
   "./playables/freeplay/crazy_office_choose.html",
+  "./playables/slt/slt_classic.html",
   "./playables/blingo/100_box.html",
   "./playables/blingo/choose_car.html",
   "./playables/hotel_mania/HM_1.html",
