@@ -1,9 +1,12 @@
 "use strict";
 
 const links = [
+  "./playables/blossom/blo_30s_full_packshot.html",
   "./playables/woodoku_blast/classic_tetris.html",
+  "./playables/woodoku_blast/small_classic_tetris.html",
   "./playables/woodoku_blast/massive_swan.html",
   "./playables/tile_dynasty/dynasty.html",
+  "./playables/tile_dynasty/tdn_30s_full_packshot.html",
   "./playables/slt/slt_classic.html",
   "./playables/triple_tile/classic.html",
   "./playables/woodoku/duck.html",
