@@ -37,7 +37,7 @@ const links = [
   "./playables/freeplay/snake_out_tangled_snakes.html",
   "./playables/freeplay/crazy_office_choose.html",
   "./playables/hotel_mania/HM_1.html",
-  "./pet/pixi_pipes_puzzle.html",
+  // "./pet/pixi_pipes_puzzle.html",
 ];
 const root = document.getElementById("root");
 
