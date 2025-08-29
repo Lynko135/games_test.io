@@ -1,11 +1,13 @@
 "use strict";
 
 const links = [
-  "./playables/hexago/orange.html",
+  "./playables/hexago/sleaping_hxg.html",
   "./playables/woodoku/squid.html",
+  "./playables/woodoku/wdk_core_like.html",
   "./playables/woodoku_blast/tower.html",
   "./playables/woodoku_blast/apples.html",
   "./playables/woodoku_blast/classic_blast.html",
+  "./playables/block_kingdom/blk_tetris_freeplace.html",
   
   "./playables/blossom/blo_30s_full_packshot.html",
   "./playables/woodoku_blast/classic_tetris.html",
